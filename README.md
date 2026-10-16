@@ -1,4 +1,4 @@
-BLACK PANTHER: SHADOW PROTOCOL
+## BLACK PANTHER: SHADOW PROTOCOL
 
 **A Beginner-to-Intermediate Cybersecurity CTF Lab**
 
@@ -8,7 +8,8 @@ The challenge encourages players to investigate exposed services, analyze applic
 
 Rather than providing a step-by-step solution, the lab encourages independent investigation, logical reasoning, and a methodical penetration-testing approach.
 
-*Learning Objectives*
+
+## *Learning Objectives*
 
 - Perform network and service enumeration.
 - Explore web applications and discover exposed resources.
@@ -18,19 +19,19 @@ Rather than providing a step-by-step solution, the lab encourages independent in
 - Understand privilege boundaries and the risks of excessive privileges.
 - Develop vulnerability documentation and remediation skills.
 
-## 🧩 Challenge Information
 
-| Attribute | Details |
-|---|---|
-| Name | BLACK PANTHER: SHADOW PROTOCOL |
-| Category | Linux, Web Security, Privilege Escalation |
-| Difficulty | Beginner to Intermediate |
-| Environment | VirtualBox |
-| Attacker Machine | Kali Linux |
-| Target Machine | Ubuntu Server |
-| Status | Initial Release |
+## *Challenge Information*
 
-## 🖥️ Lab Requirements
+> Name - BLACK PANTHER: SHADOW PROTOCOL
+> Category - Linux, Web Security, Privilege Escalation
+> Difficulty - Beginner to Intermediate
+> Environment - VirtualBox
+> Attacker Machine - Kali Linux
+> Target Machine - Ubuntu Server
+> Status - Initial Release
+
+
+## *Lab Requirements*
 
 To prepare for the challenge, you will need:
 
@@ -40,7 +41,8 @@ To prepare for the challenge, you will need:
 - Basic familiarity with Linux commands and networking.
 - Sufficient system resources to run the attacker and target virtual machines.
 
-## 🔒 Network Isolation and Safety
+
+## *Network Isolation and Safety*
 
 **This machine is intentionally vulnerable and is intended for authorized educational use only.**
 
@@ -50,7 +52,8 @@ To prepare for the challenge, you will need:
 - Do not reuse personal or production credentials in the lab.
 - Keep the target VM isolated while testing.
 
-## 🚀 Getting Started
+
+## *Getting Started*
 
 The downloadable target VM and setup instructions will be published in the Releases section when available.
 
@@ -64,7 +67,8 @@ Once the release is available:
 
 The intended solution is not included in this README. Additional hints or supporting documentation may be published separately in the future.
 
-🛠️ Learning Through Practice
+
+## *Learning Through Practice*
 
 This project is intended to encourage a structured security-testing process:
 
@@ -72,13 +76,14 @@ This project is intended to encourage a structured security-testing process:
 
 The goal is not only to complete the challenge, but also to understand why each security weakness matters and how it can be addressed.
 
-👤 Author
+
+ ## *Author*
 
 **Rudraraj Bhatawdekar**
+Cybersecurity learner and Creator of BLACK PANTHER: SHADOW PROTOCOL.
 
-Cybersecurity learner and creator of BLACK PANTHER: SHADOW PROTOCOL.
 
-📌 Disclaimer
+## *Disclaimer*
 
 This project is provided for educational and authorized security-testing purposes. The author is not responsible for misuse or damage resulting from unauthorized deployment or use of the intentionally vulnerable environment.
 
