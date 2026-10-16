@@ -22,13 +22,13 @@ Rather than providing a step-by-step solution, the lab encourages independent in
 
 ## *Challenge Information*
 
-> Name - BLACK PANTHER: SHADOW PROTOCOL
-> Category - Linux, Web Security, Privilege Escalation
-> Difficulty - Beginner to Intermediate
-> Environment - VirtualBox
-> Attacker Machine - Kali Linux
-> Target Machine - Ubuntu Server
-> Status - Initial Release
+Name - BLACK PANTHER: SHADOW PROTOCOL
+Category - Linux, Web Security, Privilege Escalation
+Difficulty - Beginner to Intermediate
+Environment - VirtualBox
+Attacker Machine - Kali Linux
+Target Machine - Ubuntu Server
+Status - Initial Release
 
 
 ## *Lab Requirements*
