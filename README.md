@@ -80,7 +80,7 @@ The goal is not only to complete the challenge, but also to understand why each 
  ## *Author*
 
 **Rudraraj Bhatawdekar**
-Cybersecurity learner and Creator of BLACK PANTHER: SHADOW PROTOCOL.
+-> Creator of BLACK PANTHER: SHADOW PROTOCOL.
 
 
 ## *Disclaimer*
